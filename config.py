@@ -1,0 +1,5 @@
+sender = 'sender_email'
+reciever = 'reciever_email'
+password = 'sender_pass'
+server = 'smtp_server'
+port = 'port_number'

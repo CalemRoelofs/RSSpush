@@ -1,0 +1,1 @@
+links = ["https://www.wired.com/feed/category/science/latest/rss", "http://rss.slashdot.org/Slashdot/slashdot", "https://makezine.com/feed/", "https://www.wired.com/feed/category/security/latest/rss", "http://www.pcgamer.com/rss/", "https://securelist.com/feed/","http://feeds.feedburner.com/TechCrunch/Android"]
